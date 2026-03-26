@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[32177,["/Summer-CV-2026/_next/static/chunks/15-4c_5ue.9vw.js","/Summer-CV-2026/_next/static/chunks/07ocp05vhqw9b.js","/Summer-CV-2026/_next/static/chunks/0d3tkj33oycf2.js","/Summer-CV-2026/_next/static/chunks/0l81i8ygln2n8.js"],"default"]
+3:I[6245,["/Summer-CV-2026/_next/static/chunks/15-4c_5ue.9vw.js","/Summer-CV-2026/_next/static/chunks/07ocp05vhqw9b.js","/Summer-CV-2026/_next/static/chunks/0d3tkj33oycf2.js","/Summer-CV-2026/_next/static/chunks/0l81i8ygln2n8.js"],"default"]
+4:I[15,["/Summer-CV-2026/_next/static/chunks/15-4c_5ue.9vw.js","/Summer-CV-2026/_next/static/chunks/07ocp05vhqw9b.js","/Summer-CV-2026/_next/static/chunks/0d3tkj33oycf2.js","/Summer-CV-2026/_next/static/chunks/0l81i8ygln2n8.js"],"default"]
+5:I[48005,["/Summer-CV-2026/_next/static/chunks/15-4c_5ue.9vw.js","/Summer-CV-2026/_next/static/chunks/07ocp05vhqw9b.js","/Summer-CV-2026/_next/static/chunks/0d3tkj33oycf2.js","/Summer-CV-2026/_next/static/chunks/0l81i8ygln2n8.js"],"default"]
+6:I[3817,["/Summer-CV-2026/_next/static/chunks/15-4c_5ue.9vw.js","/Summer-CV-2026/_next/static/chunks/07ocp05vhqw9b.js","/Summer-CV-2026/_next/static/chunks/0d3tkj33oycf2.js","/Summer-CV-2026/_next/static/chunks/0l81i8ygln2n8.js"],"default"]
+7:I[97367,["/Summer-CV-2026/_next/static/chunks/15-4c_5ue.9vw.js","/Summer-CV-2026/_next/static/chunks/07ocp05vhqw9b.js","/Summer-CV-2026/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen flex-col items-center justify-between","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","footer",null,{"className":"bg-slate-900 w-full py-8 text-center text-slate-400 text-sm","children":["$","p",null,{"children":["© ",2026," Xu Fanjie (Summer). All rights reserved."]}]}]]}],[["$","script","script-0",{"src":"/Summer-CV-2026/_next/static/chunks/0l81i8ygln2n8.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JVco4BsI1QcsTVqe9N17z"}
+9:null
